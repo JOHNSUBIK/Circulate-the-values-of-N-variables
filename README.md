@@ -26,7 +26,7 @@ def circulate():
 ```
 
 ## Output:
-![output](/circulate.png)
+![output](/image.jpeg)
 
 
 
