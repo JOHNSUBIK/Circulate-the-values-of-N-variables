@@ -27,17 +27,19 @@ after slicing your values get circulated
 We can change the values to be circulated from an element to element
 
 ## Program:
-```
+#Program to circulate N values.
+#Developed by: John Paul J
+#RegisterNumber:23011778
 def circulate():
     list1=eval(input())
     n=int(input())
     result=list1[n:]+list1[:n]
-    print('After circulating the values are:',result)
-```
+    print("After circulating the values are:",result)
 
 ## Output:
 
-![Screenshot 2023-11-25 094626](https://github.com/JOHNSUBIK/Circulate-the-values-of-N-variables/assets/150279319/90449a75-c018-4d9c-943b-12ca31cb542b)
+![Screenshot 2023-12-26 134008](https://github.com/JOHNSUBIK/Circulate-the-values-of-N-variables/assets/150279319/faf0705d-115e-4c2e-8918-08ace868ea00)
+
 
 
 
